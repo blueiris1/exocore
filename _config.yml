@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
+title: Blue Iris
 description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+url: https://blueiris.netlify.app
+repository: blueiris1/exocore
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
