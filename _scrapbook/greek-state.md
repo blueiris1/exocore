@@ -1,7 +1,7 @@
 ---
 subtitle:
 date: 2022-12-01
-tags: Nietzsche Greek
+tags: Reading-Notes
 ---
 
 # The Greek State
