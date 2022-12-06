@@ -7,6 +7,9 @@ tags: Reading-Notes
 # On the Aesthetic Education of Man
 
 ## Notes:
+- In the modern world, which compared with the Greek, usually produces only abnormalities and centaurs, in which the individual, like that fabulous creature in the beginning of the Horatian Art of Poetry, is jumbled together out of pieces, here in the modern world in one and the same man the greed of the struggle for existence and the need for art show themselves at the same time: out of this unatural amalgamation has originated the dilemma, to excuse and to consecrate that first greed before this need for art. Therefore we believe in the 'dignity of man' and the 'dignity of labor.'
+ - The Greeks did not require such conceptual hallucinations, for among them the idea that labor is a disgrace is expressed with startling frankness; and another piece of wisdom, more hidden and less articulate, but everywhere alive, added that the human thing also was an ignominious and piteous nothing and the 'dream of a shadow.' Labor is a disgrace, because existence has no value in itself; but even though this very existence in the alluring embellishment of artistic illusions shines forth and really seems to have a value in itself, yet that proposition is still valid that labor is a disgraced disgrace indeed by the fact that it is impossible for man, fighting for the continuance of bare existence, to become an artist. 
+
 - Letter 1: However, while this technical form reveals truth to our understanding, it also conceals truth from our feeling; because, unfortunately, understanding has first to destroy the object of inner reflection if it would really make this object its own.
 - What has been said of moral experience is even more true for the phenomena we beauty. Its entire magic rests upon its secret, and by dissolving the necessary bond between its elements its very being melts away. 
 
