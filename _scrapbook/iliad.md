@@ -6,7 +6,7 @@ tags: Ancient-Greece
 
 # The Iliad 
 
-### The Rage of Achilles
+## The Rage of Achilles
 
 The Iliad, a poem about Ilium, the rage of Peleus' son Achilles.
 
@@ -76,7 +76,7 @@ Homer's Achilles is clearly the model for the tragic hero of the Sophoclean stag
 
 (Note-to-self: Go through this document and add the links)
 
-### Some Favorite Passages
+## Some Favorite Passages
 
 - The warlords dear to the gods and flanking Agamemnon strode on ahead, marshaling men-at-arms in files, and down their ranks the fiery-eyed Athena bore her awesome shield of storm, ageless, deathless- a hundred golden tassels, all of them braided tight and each worth a hundred oxen, float along the front. Her shield of lightning dazzling, swirling around her, headlong on Athena swept through the Argive armies, driving soldiers harder, lashing the fighting-fury in each Achaean's heart-no stopping them now, mad for war and struggle. Now, suddenly, battle thrilled them more than the journey home, than sailing hollow ships to their dear native land.
 

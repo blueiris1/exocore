@@ -1,7 +1,7 @@
 ---
 subtitle:
 date: 2022-12-01
-tags: Ancient-Greece
+tags: Ancient-Greece Nietzsche
 ---
 
 # The Greek State

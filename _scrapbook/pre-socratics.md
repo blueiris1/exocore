@@ -6,7 +6,7 @@ tags: Ancient-Greece
 
 # The Pre-Socratics
 
-### Thales
+## Thales
 
 Greek philosophy seems to begin with the proposition that water is the primal origin of all things. We take serious this proposition because it tells us something about the primal origin of all things; because it does so in a language devoid of image or fable; and because embryonically contained in this proposition is the thought that all things are one. Thales ventures to step out of the company of the religious and superstitious and shows him as a natural scentist and the first Greek philosopher. 
 
@@ -14,9 +14,9 @@ Philosophy leaps ahead on tiny toe-holds; hope and intuition lend wings to its f
 
 What then is it that brings philosophical thinking so quickly to its goal? Is it different from the thinking that calculates and measures, only by virtue of the greater rapidity with which it transcends all space? No, its feet are propelled by an alien, illogical power-the power of creative imagination. Lifted by it, it leaps from possibility to possibility, using each one as a temporary resting place. Occasionally it will grasp such a resting place even as it flies. Creative premonition will show the place; imagination guesses from afar that here it will find a demonstrable resting place. But the special strength of imagination is its lightning quick seizure and illumination of analogies. Subsequent reflection comes with measuring devices and routinizing patterns and tries to replace analogy with equation and synchronicity with causality. But even if this should not work, even in a case such as that of Thales, non-provable philosophic thinking has its value. Even if all the footholds have crumbled by the time logic and empiric rigidity want to cross over to such a proposition as "all is water," even after the total demolition of any scientific edifice, something remains. And in this remainder lies an impelling force which is the hope of future fruitfulness.
 
-Man for the Greeks was the truth and core of all things, everything else was but semblance and the play of illusion; (this is why the values of Thales' thought lies in the fact that it was meant non-mythically and non-allegorically). For this very reason they found it unbelievably difficult to comprehend concepts as such. Herein they were the exact opposite of modern men. For us, even the most personal is sublimated back into an abstraction; for them the greatest abstraction kept running back into a person. Thales said "Not man, but water, is the reality of all things." He begins to believe in nature by believing in at least water. He had turned cold against everything mythical and allegorical but not yet reaching the pure abstraction "all things are one", instead remaining at a concrete expression of it. An alien rarity among the Greeks of his time. Thales begins to see into the depths of nature without the help of fantastical fable. [homeric-gods] Wandering versus understanding.
+Man for the Greeks was the truth and core of all things, everything else was but semblance and the play of illusion; (this is why the values of Thales' thought lies in the fact that it was meant non-mythically and non-allegorically). For this very reason they found it unbelievably difficult to comprehend concepts as such. Herein they were the exact opposite of modern men. For us, even the most personal is sublimated back into an abstraction; for them the greatest abstraction kept running back into a person. Thales said "Not man, but water, is the reality of all things." He begins to believe in nature by believing in at least water. He had turned cold against everything mythical and allegorical but not yet reaching the pure abstraction "all things are one", instead remaining at a concrete expression of it. An alien rarity among the Greeks of his time. Thales begins to see into the depths of nature without the help of fantastical fable. `[[The Homeric Gods]]` Wandering versus understanding.
 
-### Anaximander
+## Anaximander
 
 Anaximander, the first philosophical author of the ancients, writes exactly as one expects a typical philosopher to write when alienating demands have not yet robbed him of his innocence and naivete. That is to say, in graven stylized letters, sentence after sentence the witness to fresh illumination, each the expression of time spent in sublime meditation.
 
@@ -30,7 +30,7 @@ The particular word choice of 'injustice' has great importance here. Existence i
 
 This is not necessarily the dawn of an idea that all nature is subject to universal laws, Anaximander was not thinking of a monotonous causal series which modern scientists construct - he was forming a moral, not physical law of nature. There is a deeply religious meaning in his conception that natural phenomena are goverened by a moral standard. It is not a description of events but a justification of the nature of the universe: he shows creation to be a cosmos 'writ large' - a community of things under law. Solon's ethico-legal conception of responsibility and retribution was derived from epic-theodicy; similarly Anaximander's doctrine of the systematic justice of the universe - the idea of cause and retribution - was transferred from legal to physical terminology. His idea of Diké is the first stage in the projection of life in the city-state upon the life of the universe. 
 
-### Heraclitus
+## Heraclitus
 
 "Becoming is what I contemplate, and noone else has watched so attentively this everlasting wavebeat and rhythm of things. And what did I see? Lawful order, unfailing certainties, ever-like orbits of lawfulness, Erinnyes sitting in judgement on all transgressions against lawful order, the whole world the spectacle of sovereign justice and of the demonically ever-present natural forces that serve it. Not the punishment of what has come-to-be did I see, but the justification of that which is coming-into-being."
 
@@ -48,7 +48,7 @@ No all-powerful feeling of compassionate emotions, no desire to help, to heal, t
 
 (Note-to-self: tbc complete translation and ordering of the fragments alongside further commentary)
 
-### Parmenides 
+## Parmenides 
 
 While each word of Heraclitus expresses the pride and majestey of truth, truth grasped by intuitions rather than attained by the rope ladder of logic, while in sybylline rapture Heraclitus gazes but does not peer, knows but does not calculate, his contemporary Parmenides stands beside him as a counter image likewise expressing a type of truth teller but one formed of ice rather than fire, pouring cold piercing light all around. 
 
@@ -70,7 +70,7 @@ The introductory section of Parmenides' philosophical poem concludes with the Go
 
 The road of 'is not' may not be taken, because it is impossible to know that which is not, the same is for thinking and being, it is impossible to tread the way of non-being because there is nothing there to know or express; to think is to think something - verbs of cognition take a direct object; to think nothing would be to not think. Thinking is the apprehension of being, of something rather than nothing. Conversely, being is limited to that which can be thought, intelligibility is the bery meaning of being. Thinking is solely the apprehension of being and being is wholly and solely that which is given to thought. This should not be taken to imply an idealism in any subjectivist sense, as though thought were prior to being and being posterior to thought - being and thought apart from one another make no sense here. 
 
-### Anaxagoras 
+## Anaxagoras 
 
 Against Parmenidean separation of senses and concepts, and the identity of thinking and being Anaxagoras poses some objections. In the first place, if thinking in concepts on the part of reason is real, then the many and motion must partake in reality also, for reasoned thinking is mobile. In the second place, if only fraud and semblance emanate from the senses, and if in truth there is only the real identity of thinking and being, what then are the senses themselves? Evidently a part of semblance, since they do not coincide with thinking, but to whom do they dissemble? How, being unreal, can they deceieve? Non-being cannot practice deceit. In this supposition there is no room for transformation in a narrow sense i.e., coming to be. What we have now is a multiplicity which has true being; a;; the properties have true being, as has motion. About each and every moment of the world one would have to say: all true essences contained in the world are existent simultaneously, unchanged, undiminished, without increase, without decrease. If the world looks different a millenia apart this is not an illusion but rather the consequence of everlasting motion. True being is moved sometimes this way sometimes that way together asunder upwardly downward withinly all directions. 
 
